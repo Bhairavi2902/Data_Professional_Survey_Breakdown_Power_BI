@@ -4,6 +4,7 @@ Data Professional Survey Breakdown
 This is a Power BI dashboard created to analyze Data Professional Survey Breakdown. The goal is to provide insights into trends, and technologies prevalent in the Data industry.
 
 Dashboard Overview:
+----------------------------------------------
 ![Screenshot 2024-09-04 000217](https://github.com/user-attachments/assets/82400d0d-ebab-4bac-814c-ec8ed038e2b4)
 
 
